@@ -1,5 +1,5 @@
 # Ohjelmistotekniikka, harjoitustyö  
   
-Aion tehdä jonkin **pelin**, *todennäköisesti* pygame-moottorilla.  
-
-[Laskarit](https://github.com/Gaberol/Ohte/tree/master/laskarit)
+[Dokumentaatio](https://github.com/Gaberol/Ohte/blob/master/game/documentation/vaatimusmaarittely.md)  
+  
+[Laskarit](https://github.com/Gaberol/Ohte/tree/master/laskarit)  
